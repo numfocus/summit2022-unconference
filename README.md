@@ -1,2 +1,3 @@
-# summit2022-unconference
-2022 Project Summit Unconference Planning 
+# 2022 Project Summit Unconference Planning 
+
+More details coming soon.
